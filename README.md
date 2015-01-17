@@ -1,2 +1,2 @@
 # Class_TransparentListBox
-Provides transparent listbox control for AHK GUIs.
+Provides transparent listbox controls for AHK GUIs.
